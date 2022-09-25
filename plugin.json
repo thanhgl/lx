@@ -20,9 +20,9 @@
         "author": "Nhocconsr",
         "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/lxhentai/plugin.zip",
         "version": 3,
-        "source": "https://lxhentai.com",
+        "source": "https://lxhentai.org",
         "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/lxhentai/icon.png",
-        "description": "Đọc truyện trên trang Lxhentai.com",
+        "description": "Đọc truyện trên trang Lxhentai.org",
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
