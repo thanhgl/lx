@@ -4,17 +4,7 @@
         "description": "Thích là nhích ^^!"
     },
     "data": [
-      {
-        "name": "Vlog Truyện",
-        "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
-        "version": 2,
-        "source": "https://vlogtruyen.net",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
-        "description": "Đọc truyện trên trang vlogtruyen.net",
-        "type": "comic",
-        "locale": "vi_VN"
-      },
+   
       {
         "name": "LxHentai",
         "author": "TH",
@@ -26,16 +16,7 @@
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
-      },
-     
-      {
-      "name": "Manhuarock",
-        "author": "fusornat",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/manhuarock/plugin.zip",
-        "version": 1,
-        "source": "https://manhuarock.net",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/manhuarock/icon.png",
-        "description": "Kho truyện tranh lớn nhất việt nam, đọc truyện hoàn toàn miễn phí."
-      }
+      }    
+      
     ]
 }
