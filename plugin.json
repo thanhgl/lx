@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "author": "Nhocconsr",
+        "author": "TH",
         "description": "Thích là nhích ^^!"
     },
     "data": [
@@ -18,10 +18,10 @@
       {
         "name": "LxHentai",
         "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/lxhentai/plugin.zip",
+        "path": "https://raw.githubusercontent.com/thanhgl/vbook/master/lxhentai/plugin.zip",
         "version": 3,
         "source": "https://lxhentai.org",
-        "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/lxhentai/icon.png",
+        "icon": "https://raw.githubusercontent.com/thanhgl/vbook/master/lxhentai/icon.png",
         "description": "Đọc truyện trên trang Lxhentai.org",
         "tag": "nsfw",
         "type": "comic",
