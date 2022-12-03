@@ -10,9 +10,9 @@
         "author": "TH",
         "path": "https://raw.githubusercontent.com/thanhgl/vbook/master/lxhentai/plugin.zip",
         "version": 3,
-        "source": "https://lxhentai.org",
+        "source": "https://lxmanga.com",
         "icon": "https://raw.githubusercontent.com/thanhgl/vbook/master/lxhentai/icon.png",
-        "description": "Đọc truyện trên trang Lxhentai.org",
+        "description": "Đọc truyện trên trang lxmanga.com",
         "tag": "nsfw",
         "type": "comic",
         "locale": "vi_VN"
